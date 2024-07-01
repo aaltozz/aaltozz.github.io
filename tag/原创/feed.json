@@ -9,7 +9,7 @@
             "url": "http://example.com/2024/07/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
             "title": "测试文章",
             "date_published": "2024-07-01T14:33:00.000Z",
-            "content_html": "<p>这是一篇测试文章</p>\n<p><img src=\"test.png\" alt=\"图片引用\"></p>\n",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><p>这是一篇测试文章</p>\n<p><img src=\"test.png\" alt=\"图片引用\"></p>\n",
             "tags": [
                 "原创"
             ]
