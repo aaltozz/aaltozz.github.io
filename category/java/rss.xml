@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>阿尔托 • Posts by &#34;java&#34; category</title>
+        <link>http://example.com</link>
+        <description>阿尔托的二号博客</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 01 Jul 2024 22:33:00 +0800</pubDate>
+        <lastBuildDate>Mon, 01 Jul 2024 22:33:00 +0800</lastBuildDate>
+        <category>原创</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/07/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+            <title>测试文章</title>
+            <link>http://example.com/2024/07/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+            <category>原创</category>
+            <pubDate>Mon, 01 Jul 2024 22:33:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这是一篇测试文章&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;test.png&#34; alt=&#34;图片引用&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
