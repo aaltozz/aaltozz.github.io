@@ -409,7 +409,7 @@
       
         jQuery.ajax({
           type: 'GET',
-          url: 'https://v1.jinrishici.com/all.json',
+          url: 'https://api.xygeng.cn/openapi/one',
           headers: {},
           dataType: 'json',
           success: function(result) {
@@ -433,7 +433,7 @@
           },
           error: function(xhr, status, error) {
             if (error) {
-              console.error('Failed to request https://v1.jinrishici.com/all.json:', error);
+              console.error('Failed to request https://api.xygeng.cn/openapi/one:', error);
             }
             typing(text);
           }
