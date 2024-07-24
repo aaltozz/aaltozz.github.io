@@ -5,9 +5,16 @@
         <link>http://example.com</link>
         <description>阿尔托的二号博客</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 01 Jul 2024 22:33:00 +0800</pubDate>
-        <lastBuildDate>Mon, 01 Jul 2024 22:33:00 +0800</lastBuildDate>
+        <pubDate>Wed, 24 Jul 2024 13:28:25 +0800</pubDate>
+        <lastBuildDate>Wed, 24 Jul 2024 13:28:25 +0800</lastBuildDate>
         <category>原创</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/07/24/it-tools/</guid>
+            <title>it-tools</title>
+            <link>http://example.com/2024/07/24/it-tools/</link>
+            <pubDate>Wed, 24 Jul 2024 13:28:25 +0800</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;iframe src=&#34;https://it-tools.aalto.ltd&#34; width=&#34;100%&#34; height=&#34;850&#34;&gt;&lt;/iframe&gt; ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/07/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
             <title>测试文章</title>

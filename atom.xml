@@ -3,8 +3,15 @@
     <id>http://example.com</id>
     <title>阿尔托</title>
     <link href="http://example.com" />
-    <updated>2024-07-01T14:33:00.000Z</updated>
+    <updated>2024-07-24T05:28:25.000Z</updated>
     <category term="原创" />
+    <entry>
+        <id>http://example.com/2024/07/24/it-tools/</id>
+        <title>it-tools</title>
+        <link rel="alternate" href="http://example.com/2024/07/24/it-tools/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;iframe src=&#34;https://it-tools.aalto.ltd&#34; width=&#34;100%&#34; height=&#34;850&#34;&gt;&lt;/iframe&gt;</content>
+        <updated>2024-07-24T05:28:25.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/07/01/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
         <title>测试文章</title>
